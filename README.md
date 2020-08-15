@@ -11,5 +11,4 @@
 - Extending the labs' Grafana dashboard, it's a never ending project<br>
 
 ## GitHub Stats
-<img alt="aram535's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aram535&show_icons=true&hide_border=true" /><br>
 <img alt="aram535's Github Stats" src="https://github-readme-stats-git-master.aram535.vercel.app/api?username=aram535&show_icons=true&hide_border=true" /><br>
